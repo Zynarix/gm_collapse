@@ -1,0 +1,7 @@
+"beta"
+{
+	"base"		"sandbox"
+	"title"		"collapse"
+	"maps"		""
+	"menusystem" "1"
+}
